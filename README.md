@@ -32,8 +32,8 @@ Welcome to my GitHub — where creativity meets code. I'm an **aspiring Full-Sta
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_title=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theejay25&show_icons=true&theme=radical&hide_title=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theejay25&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
