@@ -22,7 +22,7 @@ Welcome to my GitHub — where creativity meets code. I'm an **aspiring Full-Sta
 
 ## 🚀 Journey So Far
 
-- 🧠 **Currently mastering**: Full-stack dev with TypeScript + Express + React  
+- 🧠 **Currently mastering**: Full-stack dev with TypeScript + Express + React + NEXT
 - 🛠️ **Projects**: From weather apps to Ip trackers & an ongoing inventory systems project
 - 💡 **Hackathons**:  
   - ✨ *ABIA State Civic Connect Hackathon* — Real solutions for real people  
