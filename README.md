@@ -32,7 +32,6 @@ Full-stack developer building clean, functional, user-focused web apps, with a g
 
 - **Web apps:** React and Next.js front ends with TypeScript, backed by Node and Express
 - **Smart contracts:** Solidity contracts tested with Foundry
-- **Projects so far:** weather apps, IP trackers, a health app ([Cardio-Care](https://github.com/theejay25/Cardio-Care)), a React timer, and an inventory system in progress
 - **Hackathons:** ABIA State Civic Connect Hackathon, building real solutions for real people
 
 ---
@@ -58,4 +57,4 @@ I'm open to new opportunities and collaborations.
 
 [LinkedIn](https://www.linkedin.com/in/jude-okocha-162958327) | [GitHub](https://github.com/theejay25)
 
-<!-- Add your portfolio link here once it's deployed -->
+
