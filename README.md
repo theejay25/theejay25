@@ -1,59 +1,61 @@
-# 👋 Hey there, I’m Jude (aka Jay)!
+# Hey, I'm Jude (aka Jay)
 
-Welcome to my GitHub — where creativity meets code. I'm an **aspiring Full-Stack Developer** passionate about building sleek, functional, and user-focused applications.
+Full-stack developer building clean, functional, user-focused web apps, with a growing focus on smart contracts and blockchain development.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages & Tools I Use:**
+**Web**
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.Js](https://img.shields.io/badge/-NEXT.Js-0a0a0a?style=flat&logo=Next&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
----
+**Blockchain**
 
-## 🚀 Journey So Far
-
-- 🧠 **Currently mastering**: Full-stack dev with TypeScript + Express + React + NEXT
-- 🛠️ **Projects**: From weather apps to Ip trackers & an ongoing inventory systems project
-- 💡 **Hackathons**:  
-  - ✨ *ABIA State Civic Connect Hackathon* — Real solutions for real people  
-- 📈 Always learning, always improving
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/-Foundry-E8590C?style=flat)
 
 ---
 
-## 📊 GitHub Stats
+## What I Work On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theejay25&show_icons=true&theme=radical&hide_title=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theejay25&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🎯 Goals
-
-- Deepen backend skills (Auth, Redis, BullMQ, etc.)  
-- Build projects that blend aesthetic design with practical features  
-- Collaborate with devs and join open source challenges
+- **Web apps:** React and Next.js front ends with TypeScript, backed by Node and Express
+- **Smart contracts:** Solidity contracts tested with Foundry
+- **Projects so far:** weather apps, IP trackers, a health app ([Cardio-Care](https://github.com/theejay25/Cardio-Care)), a React timer, and an inventory system in progress
+- **Hackathons:** ABIA State Civic Connect Hackathon, building real solutions for real people
 
 ---
 
-## 🌐 Let’s Connect
+## GitHub Stats
 
-I'm always open to new opportunities and collaborations.
-
-👉 **[Connect on LinkedIn](https://www.linkedin.com/in/jude-okocha-162958327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
-*Let’s build something awesome together.*
+![Stats](https://github-readme-stats.vercel.app/api?username=theejay25&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theejay25&layout=compact&theme=radical)
 
 ---
 
-> *"Code is the language of ideas — let’s speak fluently."*
+## Goals
+
+- Deepen backend skills: authentication, Redis, BullMQ
+- Build and ship smart contract projects with a polished front end
+- Collaborate with other developers and join open source challenges
+
+---
+
+## Let's Connect
+
+I'm open to new opportunities and collaborations.
+
+[LinkedIn](https://www.linkedin.com/in/jude-okocha-162958327) | [GitHub](https://github.com/theejay25)
+
+<!-- Add your portfolio link here once it's deployed -->
